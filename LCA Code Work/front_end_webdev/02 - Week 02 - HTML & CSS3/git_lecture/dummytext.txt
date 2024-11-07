@@ -1,0 +1,40 @@
+LCA Code Work - MAIN
+>
+front_end_webdev
+>
+01 - Week 01 - HTML & CSS3
+>
+Exercises
+>
+Exercise 1
+Exercise 2
+Exercise 3
+Exercise 4
+Exercise 5
+Exercise 6
+Lesson 1
+Lesson 2
+Lesson 3
+Lesson 4
+
+>
+front_end_webdev
+>
+02 - Week 02 - HTML & CSS3
+CSS - Exercise 1
+CSS Exercise 2
+CSS Exercise 3
+git_lecture
+
+python_programming
+>
+Exercise 1
+Exercise 2
+Exercise 3
+Exercise 4
+Exercise 5
+Lesson 1
+Lesson 2
+Lesson 3
+Lesson 4
+Lesson 5
